@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.heading {
+  color: #f1f5f9;
+}
+
+.bg-container {
+  background-color: #161624;
+  background-size: 100vh;
+}
+
+.no-visited-countries-container {
+  background-color: #161624;
+  text-align: center;
+}
+.paragraph {
+  color: #f1f5f9;
+  padding: 20px;
+}
